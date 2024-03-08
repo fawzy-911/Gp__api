@@ -4,3 +4,4 @@ tensorflow
 pillow
 numpy
 protobuf==3.20.*
+os
